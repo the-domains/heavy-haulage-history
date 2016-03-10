@@ -1,0 +1,14 @@
+layout_spectrum: 0.3361734
+typography_spectrum: 0.02400334
+color:
+  lightness: 0.5606605
+  brandStrength: 0.08347386
+  saturation: 0.3680302
+  rhythmicContrast: 0.5025499
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#1D548F'
+    - '#A3A3A3'
+    - '#4B4B4B'
+name: Heavy Haulage History
