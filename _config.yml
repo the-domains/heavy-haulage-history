@@ -1,14 +1,26 @@
-layout_spectrum: 0.3361734
-typography_spectrum: 0.02400334
+layout_spectrum: 0.7495784
+name: Heavy Haulage History
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.5606605
   brandStrength: 0.08347386
   saturation: 0.3680302
-  rhythmicContrast: 0.5025499
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#1D548F'
     - '#A3A3A3'
     - '#4B4B4B'
-name: Heavy Haulage History
+  lightness: 0.5606605
+  rhythmicContrast: 0.5025499
+typography_spectrum: 0.1045531
